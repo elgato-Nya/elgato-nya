@@ -1,6 +1,6 @@
 # MOHAMAD AFIQ BIN MOHAMAD SHARIFUZAN
 Selangor / Kuala Lumpur, Malaysia  
-[About Me](nekodez.com/about/nekodez)
+[About Me](https://nekodez.com/about/nekodez)
 
 ## Professional Summary
 Motivated Computer Science undergraduate from University Teknology MARA, with strong hands-on experience in MERN stack, AWS (EC2, S3), and GitHub Actions. Building a production-level e-commerce platform with secure authentication, cloud deployment, and scalable architecture. Strong backend fundamentals, DevOps awareness, and interest in cybersecurity.
