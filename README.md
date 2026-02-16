@@ -16,8 +16,9 @@ Motivated Computer Science undergraduate from University Teknology MARA, with st
 Bachelor of Computer Science (Netcentric Computing)  
 UiTM (2023–Present) | Expected Graduation: 2026
 
-## Featured Project - MERN E-Commerce Platform (FYP)
-- Multi-actor system (students, lecturers, vendors) with dashboards & checkout flow  
+## Featured Project - [MarKet](https://nekodez.com) 
+### Marketplace catered for campus needs, tailored for UiTM community where people can buy and sell
+- Multi-role access system (consumer, merchant, admin) with dashboards & checkout flow  
 - JWT + refresh rotation + CSRF protection  
 - AWS EC2 deployment with CI/CD  
 - Mongoose discriminators for role management  
