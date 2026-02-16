@@ -26,7 +26,7 @@ UiTM (2023–Present) | Expected Graduation: 2026
 
 ## Additional Projects
 - Comprehensive shcool attendance system with dashboard, analytics & RBAC
-- University course project using Laravel,
+- University course project using Laravel, Flutter, Java
 
 ## Experience (Coursework-Based)
 - MERN CRUD systems, schema design, deployment basics  
